@@ -1,4 +1,4 @@
-# Dog breeds Front End
+# Food App
 
 Shipped with following developer tools:
 
